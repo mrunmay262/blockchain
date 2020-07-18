@@ -1,0 +1,9 @@
+		how verifiability of blockchain has been attained????
+
+
+1.if there is 100 of people having same document at their side and having same key for that document.
+
+2. if among 100, 99 people are having same key but 1 person is having different key then all other 99 people ask
+	him to change the part of document in order to get same key.
+
+3. this is a way we get carifiability ib blockchain

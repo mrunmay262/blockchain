@@ -1,0 +1,19 @@
+			what is core problem blockchain can solve???
+
+1.	In a 2008 , there was a huge finacial crises have taken place as bank given away loans to everyone without checking the ability 
+	of a person to pay back,this caused huge crises.
+
+2.	after this blockchain came into the picture.
+
+
+3.	also blockchain solve foloowing problem:
+
+	a.secuity
+	
+	b.thrid party interfere
+
+	c.double spending
+
+	d.centralized database
+
+	e.hacking

@@ -1,0 +1,22 @@
+			what is your understanding of your about blockchain???
+
+
+definition:
+	"blockchain is a legder which contains the peer to peer transactional data stored which is secured with crptography 
+	and distributed databases".
+
+
+					or
+
+
+	"a blockchain is a constantly growing ledger that keeps a permanent record of all the transaction have taken place in
+a secure,chronlogical and immutable way in a decentalized network".
+
+
+why the need of blockchain arrised?
+1.no hacking
+2.security
+3.verifiable
+4.decentralized
+5.data transperency
+

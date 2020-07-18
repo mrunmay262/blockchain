@@ -1,0 +1,9 @@
+			what all things a block contain
+
+1.block number
+
+2.transactional record
+
+3. prvious block signature
+
+4.mining key
